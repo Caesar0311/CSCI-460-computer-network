@@ -1,0 +1,7 @@
+*.[a]
+*~
+*.class
+*.ps
+core
+*.core
+a.out
